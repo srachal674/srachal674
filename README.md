@@ -23,4 +23,18 @@ My development projects include Python graphics, web development, and Ruby on Ra
 | [Flixter](https://github.com/srachal674/flixter) | A course platform for publishing instructional videos and accepting course payments. |
 | [Gamester](https://github.com/srachal674/gamester) | A college football statistics search and message-board application. |
 
-Classroom resources and student work are kept separate from the personal projects featured here.
+## Music and hardware
+
+- [Pink Panther trombone music](https://github.com/srachal674/pink-panther) — an active micro:bit / MakeCode project for the second-trombone part.
+
+## Learning and reference
+
+- [Bootcamp setup guide](https://github.com/srachal674/bootcamp-setup-guide) — saved Ruby on Rails and PostgreSQL environment instructions.
+- [Coursera web-development coursework](https://github.com/srachal674/fullstackcouse) — HTML, CSS, and JavaScript assignments.
+
+## Teaching resources
+
+- [Classroom images](https://github.com/srachal674/Images) — images and graphics used in Canvas courses.
+- [Computer Literacy materials](https://github.com/srachal674/computer-literacy) — assignments, worksheets, and reference materials.
+
+Student projects are kept separate from this directory. Retired demonstrations are archived for reference.
